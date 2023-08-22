@@ -361,3 +361,9 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/Views/Window1.xaml
+/App.xaml
+/App.xaml.cs
+/Views/Window1.xaml.cs
+/DB/BestBuy.laccdb
+/DB/BestBuy.accdb
